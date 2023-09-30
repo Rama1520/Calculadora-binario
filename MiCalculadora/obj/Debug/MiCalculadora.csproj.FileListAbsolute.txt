@@ -1,0 +1,26 @@
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\bin\Debug\Entidades2.dll
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\bin\Debug\Entidades2.pdb
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\ignac\Desktop\Labo2\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\bin\Debug\Entidades2.dll
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\bin\Debug\Entidades2.pdb
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\ignac\Desktop\segundo cuatri\Labo2\MiCalculadora\obj\Debug\MiCalculadora.pdb
